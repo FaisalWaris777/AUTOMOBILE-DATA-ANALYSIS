@@ -2,7 +2,7 @@
 ## Introduction
 Data analysis project on the automotive industry with React in the frontend and Flask in the backend.<br/>
 Car Data Analysis is a ReactJS based web application with a Flask based backend. It has Three components.<br/>
-* Front-Page:Univariate Analysis(For single variable)<br/>Bivariate Analysis(For two variable)<br/>Correlation(to get relationship between two variable)<br/>Most Common Specification 
+* Dashboard:Univariate Analysis(For single variable)<br/>Bivariate Analysis(For two variable)<br/>Correlation(to get relationship between two variable)<br/>Most Common Specification 
 * Company Analysis:Price Analysis(Analysing power for different variables like Fuel Type,Drive Train, etc)<br/>Power Analysis(variation of power with cc, etc)<br/>Mileage Analysis(Variation of Mileage with Fuel Type ,Engine cc, etc)<br/>Body Type Analysis<br/>Fuel Type Analysis
 * Ex-Showroom-Price Prediction:Predicting the Expected Showroom price of a new car.
 ## Technologies used
