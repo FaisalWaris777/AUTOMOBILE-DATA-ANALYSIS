@@ -13,3 +13,6 @@ Car Data Analysis is a ReactJS based web application with a Flask based backend.
 * NumPy: NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 * Flask: Flask is a small and lightweight Python web framework that provides useful tools and features that make creating web applications in Python easier.
 * Apexcharts: ApexCharts is a modern charting library that helps developers to create beautiful and interactive visualizations for web pages.
+* MUI 5: MUI offers a comprehensive suite of UI tools to help you ship new features faster. Start with Material UI, our fully-loaded component library, or bring your own design system to our production-ready components.
+* React Router V5: React Router is a standard library for routing in React. It enables the navigation among views of various components in a React Application, allows changing the browser URL, and keeps the UI in sync with the URL.
+* Scikit: For building Ex-Showroom Price Prediction Model using one hot encoding.
