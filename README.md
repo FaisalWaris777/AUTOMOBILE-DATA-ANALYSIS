@@ -1,4 +1,8 @@
 # AUTOMOBILE-DATA-ANALYSIS
+![automobile_1](https://user-images.githubusercontent.com/77573875/211999887-65b2f95b-5109-45f0-ac32-b3e78f1643ef.jpg)
+
+![automobile_3](https://user-images.githubusercontent.com/77573875/211999891-54ee8332-acdb-4004-b136-339d584e9239.jpg)
+
 ## Introduction
 Data analysis project on the automotive industry with React in the frontend and Flask in the backend.<br/>
 Car Data Analysis is a ReactJS based web application with a Flask based backend. It has Three components.<br/>
